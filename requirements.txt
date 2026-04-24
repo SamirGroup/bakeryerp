@@ -2,13 +2,13 @@
 # Install with: pip install -r requirements.txt
 
 # Core framework
-Django==6.0.4
+Django
 
 # Django async support
-asgiref==3.11.1
+asgiref
 
-# SQL parsing (used internally by Django)
-sqlparse==0.5.5
+# SQL parsing (sed internally by Django)
+sqlparse
 
 # Timezone data (required on Windows)
-tzdata==2026.1
+tzdata
